@@ -1,0 +1,80 @@
+codigo,sabor,linea,capacidad_envase,precio_tarifa
+12652,Sorbete de Frambuesa,Sorbetes,2.5,24.00
+12686,Sorbete de Limon,Sorbetes,2.5,20.20
+12693,Sorbete de Mandarina,Sorbetes,2.5,20.20
+12687,Sorbete de Mango,Sorbetes,2.5,27.27
+12659,Turron Suprema,Sin Azucares,2.5,30.35
+11554,American Brownie,Cremas Premium,5.0,56.75
+1579,Chocolate Estilo Dubai (Novedad),Cremas Premium,5.0,56.75
+5534,Chocolate Blanco con Pistacho (Novedad),Cremas Artesanas,2.4,23.52
+11500,Vainilla Bourbon,Cremas Premium,5.0,52.10
+11501,Fresa Silvestre,Cremas Premium,5.0,49.80
+11502,Chocolate Fondant,Cremas Premium,5.0,54.30
+11503,Nata de Granja,Cremas Premium,5.0,45.50
+11504,Pistacho Iberico,Cremas Premium,5.0,59.90
+11505,Avellana Tostada,Cremas Premium,5.0,58.20
+11506,Dulce de Leche,Cremas Premium,5.0,51.00
+11507,Menta Choc,Cremas Premium,5.0,48.50
+11508,Stracciatella,Cremas Premium,5.0,49.00
+11509,Yogur Griego,Cremas Premium,5.0,47.80
+11510,Tarta de Queso con Arandanos,Cremas Premium,5.0,53.40
+11511,Caramelo Salado,Cremas Premium,5.0,51.50
+12600,Limon Crema,Cremas Artesanas,2.4,18.50
+12601,Leche Merengada,Cremas Artesanas,2.4,18.50
+12602,Cafe Espresso,Cremas Artesanas,2.4,19.20
+12603,Coco Caribe,Cremas Artesanas,2.4,21.00
+12604,Pasas al Ron,Cremas Artesanas,2.4,22.10
+12605,Tiramisu,Cremas Artesanas,2.4,22.80
+12606,Platano con Toffee,Cremas Artesanas,2.4,20.50
+12607,Crema Catalana,Cremas Artesanas,2.4,19.80
+12608,Kinder Bueno Estilo,Cremas Artesanas,2.4,23.10
+12609,Cookies & Cream,Cremas Artesanas,2.4,22.50
+13500,Sorbete de Passion Fruit,Sorbetes,2.5,25.00
+13501,Sorbete de Fresa,Sorbetes,2.5,22.00
+13502,Sorbete de Melon,Sorbetes,2.5,21.50
+13503,Sorbete de Sandia,Sorbetes,2.5,21.50
+13504,Sorbete de Manzana Verde,Sorbetes,2.5,21.00
+13505,Sorbete de Piña,Sorbetes,2.5,22.00
+13506,Sorbete de Mora,Sorbetes,2.5,24.50
+13507,Sorbete de Mojito,Sorbetes,2.5,26.00
+14500,Chocolate Sin Azucar,Sin Azucares,2.5,29.50
+14501,Vainilla Sin Azucar,Sin Azucares,2.5,28.00
+14502,Nata Sin Azucar,Sin Azucares,2.5,26.50
+14503,Fresa Sin Azucar,Sin Azucares,2.5,27.50
+14504,Yogur Sin Azucar,Sin Azucares,2.5,28.00
+15500,Turron de Jijona,Especialidades,5.0,59.00
+15501,Xixona Oro,Especialidades,5.0,62.00
+15502,Mazapan con Miel,Especialidades,5.0,61.00
+15503,Crema de Orujo,Especialidades,5.0,55.00
+15504,Pedro Ximenez con Pasas,Especialidades,5.0,58.00
+16600,Donut Glaseado,Novedades Divertidas,2.4,24.00
+16601,Chicle Azul,Novedades Divertidas,2.4,19.50
+16602,Nube de Algodon,Novedades Divertidas,2.4,19.50
+16603,Palomitas de Caramelo,Novedades Divertidas,2.4,21.50
+16604,Red Velvet Cake,Novedades Divertidas,2.4,25.00
+17700,Mango-Kiwi Vegan,Veganos,2.4,26.00
+17701,Chocolate Intenso Vegan,Veganos,2.4,28.50
+17702,Arroz con Leche de Coco Vegan,Veganos,2.4,25.50
+17703,Aguacate con Lima Vegan,Veganos,2.4,29.00
+18800,Vainilla Alta Proteina,Fitness,2.4,31.00
+18801,Chocolate Alta Proteina,Fitness,2.4,32.00
+18802,Platano-Cacahuete Proteina,Fitness,2.4,31.50
+19900,Sorbete Sangria,Ediciones Limitadas,2.5,24.00
+19901,Crema de Whisky Irlandes,Ediciones Limitadas,5.0,57.00
+19902,Panettone Navideño,Ediciones Limitadas,5.0,59.00
+20001,Vainilla Clasica Estilo USA,Gran Volumen,5.0,39.00
+20002,Chocolate Clasico Estilo USA,Gran Volumen,5.0,41.00
+20003,Fresa Clasica Estilo USA,Gran Volumen,5.0,38.50
+20004,Nata Clasica Estilo USA,Gran Volumen,5.0,36.00
+20005,Tres Gustos (C-V-F),Gran Volumen,5.0,37.00
+21001,Biscuit Lotus Speculoos,Cremas Premium,5.0,56.50
+21002,Oreo Extra Crunch,Cremas Premium,5.0,56.00
+21003,Milka Chocolate Blanco,Cremas Premium,5.0,57.50
+21004,Snickers Maní Salado,Cremas Premium,5.0,58.00
+21005,Toblerone Suizo Trozos,Cremas Premium,5.0,61.50
+22001,Sorbete Frambuesa-Menta,Sorbetes,2.5,25.50
+22002,Sorbete Piña Colada,Sorbetes,2.5,26.50
+22003,Sorbete Ginebra-Tónica,Sorbetes,2.5,28.00
+23001,Crema de Castañas,Temporada Otoño,2.4,24.50
+23002,Calabaza con Especias,Temporada Otoño,2.4,22.00
+23003,Tarta de Manzana Caliente,Temporada Otoño,2.4,23.50
