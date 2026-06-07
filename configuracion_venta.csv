@@ -1,0 +1,9 @@
+tipo_configuracion,valor_calculo,etiqueta_pantalla
+Cuchara,12,Porcionador 50mm (12 bolas/L)
+Cuchara,9,Porcionador 55mm (9 bolas/L)
+Cuchara,7,Porcionador 60mm (7 bolas/L)
+Descuento,0,Tarifa Oficial (0%)
+Descuento,0.05,Descuento Volumen (5%)
+Descuento,0.10,Especial Campaña (10%)
+Descuento,0.15,Cliente Preferente (15%)
+Descuento,0.20,Gran Distribuidor (20%)
